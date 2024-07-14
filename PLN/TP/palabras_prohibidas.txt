@@ -1,0 +1,22 @@
+@
+[
+ingeniería en sistemas de información
+utn
+trabajo
+capitulo
+fecha
+legajo
+cuatrimestre
+catedra
+ayudante
+profesor
+instructor
+universidad
+facultad
+curso
+email
+integrante
+alejandro prince
+hernán borré
+maximiliano bracho
+cátedra
